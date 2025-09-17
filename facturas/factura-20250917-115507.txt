@@ -1,0 +1,11 @@
+===== FACTURA DE COMPRA =====
+Fecha: 20250917-115507
+-----------------------------
+Producto                       Precio     Cant.  Total     
+Pastel de Vainilla             $24.99     5      $124.95   
+Pastel de Chocolate            $24.99     4      $99.96    
+-----------------------------
+Subtotal: $224.91
+IVA (13%): $29.24
+TOTAL: $254.15
+=============================

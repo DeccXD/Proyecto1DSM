@@ -1,0 +1,11 @@
+===== FACTURA DE COMPRA =====
+Fecha: 20250917-113256
+-----------------------------
+Producto                       Precio     Cant.  Total     
+Pastel de Fresa                $24.99     3      $74.97    
+Pastel de Frutas               $19.99     5      $99.95    
+-----------------------------
+Subtotal: $174.92
+IVA (13%): $22.74
+TOTAL: $197.66
+=============================
