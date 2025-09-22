@@ -3,12 +3,12 @@ import java.time.LocalDateTime
 import java.time.format.DateTimeFormatter
 
 fun main() {
-    crearCarpetaLogsSiNoExiste()
+    crearCarpetaLogs()
     val productos = crearInventario()
     pantallaInicio(productos)
 }
 
-private fun crearCarpetaLogsSiNoExiste() {
+private fun crearCarpetaLogs() {
     try {
         val dir = File("logs")
         if (!dir.exists()) dir.mkdirs()

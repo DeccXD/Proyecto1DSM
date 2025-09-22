@@ -3,7 +3,7 @@ import java.time.LocalDateTime
 import java.time.format.DateTimeFormatter
 
 class Carrito {
-    private val items = mutableListOf<Pair<Producto, Int>>() // Producto + Cantidad
+    private val items = mutableListOf<Pair<Producto, Int>>()
 
     fun agregarProducto(producto: Producto, cantidad: Int) {
 
